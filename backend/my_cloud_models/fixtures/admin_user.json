@@ -1,0 +1,14 @@
+[
+    {
+      "model": "my_cloud_models.CloudUser",
+      "pk": 1,
+      "fields": {
+        "name": "Администратор",
+        "login": "admin",
+        "email": "admin@mycloud.ru",
+        "password": "admin",
+        "is_admin": true,
+        "storage_path": ""
+      }
+    }
+  ]
